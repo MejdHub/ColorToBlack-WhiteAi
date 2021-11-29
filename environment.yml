@@ -1,0 +1,10 @@
+name: colorAI
+dependencies:
+  - python==3.6.8
+  - pandas==1.2.4
+  - numpy==1.18.2
+  - matplotlib==3.0.2
+  - opencv==3.4.2
+  - pillow==5.4.1
+  - random==0.0.1
+  - pygame==2.1.0
