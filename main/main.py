@@ -17,6 +17,8 @@ if __name__ == "__main__":
     
     #nn = ai.NeuralNetwork(rIn,gIn,bIn,z)
     
+    file = ""
+    
     '''
     nn.train(1)
     
