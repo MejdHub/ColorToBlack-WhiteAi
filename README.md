@@ -1,2 +1,2 @@
 # ColorToBlack-WhiteAi
-Turn any color to black and white(rgb values)
+Turn any color(rgb values) to black and white
