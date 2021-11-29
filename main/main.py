@@ -9,16 +9,15 @@ import numpy   as np
 import random  as rd
 import pygame  as pg
 import neural  as ai
-import sys
 import dataset as ds
 import pandas  as ps
-
+import sys
 
 if __name__ == "__main__":
     
     #nn = ai.NeuralNetwork(rIn,gIn,bIn,z)
     
-    
+    '''
     nn.train(1)
     
     a = np.array([[0.000]])
